@@ -31,6 +31,8 @@
 > 
 > Blockquotes
 
+Here's a simple footnote,<sup>[1](#footnote1)</sup> and here's a longer one.<sup>[2](#footnote2)</sup>
+
 * Item 2
 * Item 3
 * Item 1
@@ -48,8 +50,6 @@
 ![Tux, the Linux mascot](https://d33wubrfki0l68.cloudfront.net/e7ed9fe4bafe46e275c807d63591f85f9ab246ba/e2d28/assets/images/tux.png)
 
 ---
-
-Here's a simple footnote,<sup>[1](#footnote1)</sup> and here's a longer one.<sup>[2](#footnote2)</sup>
 
 `Code`
 
