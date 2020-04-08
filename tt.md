@@ -82,5 +82,5 @@ https://www.github.com
 
 Here's a simple footnote,<sup>[1](#footnote1)</sup> and here's a longer one.<sup>[2](#footnote2)</sup>
 
-<a name="footnote1">1</a>: Footnote 1 content.
-<a name="footnote2">2</a>: Footnote 2 content.
+<a name="footnote1">[1]</a>: Footnote 1 content.[↩](#footnote1)
+<a name="footnote2">[2]</a>: Footnote 2 content.
