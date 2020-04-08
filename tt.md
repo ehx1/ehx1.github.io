@@ -22,7 +22,7 @@
 
 **Table of Contents**
 
-[Chapter 1](#Chapter-1)
+[Chapter 1](#Chapter-1)  
 [Chapter 2](#Chapter-2)
 
 > Blockquotes
@@ -81,5 +81,5 @@ https://www.github.com
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 
-<a name="footnote1">[1]</a>: Footnote 1 content. 
+<a name="footnote1">[1]</a>: Footnote 1 content.<br>
 <a name="footnote2">[2]</a>: Footnote 2 content.
