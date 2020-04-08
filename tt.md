@@ -80,8 +80,7 @@ https://www.github.com
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here's a simple footnote,<sup>[1](#footnote1)</sup> and here's a longer one.<sup>[2](#footnote2)</sup>
 
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
+<a name="footnote1">1</a>: Footnote 1 content.
+<a name="footnote2">2</a>: Footnote 2 content.
