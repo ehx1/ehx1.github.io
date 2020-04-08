@@ -22,8 +22,8 @@
 
 **Table of Contents**
 
-[Chapter 1](#Chapter-1)
-[Chapter 2](#Chapter-2)
+- [Chapter 1](#Chapter-1)
+- [Chapter 2](#Chapter-2)
 
 > Blockquotes
 
