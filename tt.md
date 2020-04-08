@@ -61,7 +61,7 @@ $(document).ready(function () {
 
 ### Chapter 2
 
-[GitHub](https://www.github.com)
+[GitHub](https://www.github.com) 
 [GitHub](https://www.github.com)
 
 https://www.github.com
@@ -81,5 +81,5 @@ https://www.github.com
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 
-<a name="footnote1">[1]</a>: Footnote 1 content.
+<a name="footnote1">[1]</a>: Footnote 1 content. 
 <a name="footnote2">[2]</a>: Footnote 2 content.
