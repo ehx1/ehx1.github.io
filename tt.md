@@ -61,7 +61,6 @@ $(document).ready(function () {
 
 ### Chapter 2
 
-[GitHub](https://www.github.com) 
 [GitHub](https://www.github.com)
 
 https://www.github.com
